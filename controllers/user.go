@@ -12,9 +12,9 @@ type UserController struct {
 	beego.Controller
 }
 type UserJson struct {
-	code    int
-	message string
-	data    map[string]interface{}
+	Code    int         `json:"code"`
+	Message string      `json:"message"`
+	Data    interface{} `json:"data"`
 }
 type DataJson struct {
 }
@@ -26,8 +26,6 @@ func (c *UserController) PageLogin() {
 func (c *UserController) Register() {
 	username := c.GetString("username")
 	password := c.GetString("password")
-	fmt.Println("this is id and password")
-	fmt.Println(username, password)
 
 	valid := validation.Validation{}
 	valid.Required(username, "username")
@@ -66,13 +64,19 @@ func (c *UserController) Reallogin() {
 		return
 	}
 	// c.TplName = "welcome.html"
-	mystruct := UserJson{
-		code:    0,
-		message: "成功",
-		data: {
-			"name": DataJson{},
-		}
+	ms := make(map[string]interface {
+	}, 0)
+	ms["ss"] = 234234
+	ms["map"] = map[string]interface{}{
+		"name": 23,
+		"time": "asf",
 	}
-	c.Data["json"] = &mystruct
+	mystruct := &UserJson{
+		Code:    1,
+		Message: "成功",
+		Data:    ms,
+	}
+
+	c.Data["json"] = mystruct
 	c.ServeJSON()
 }

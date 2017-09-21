@@ -15,6 +15,16 @@ type User struct {
 	Email     string
 	Auth      int
 	Summary   string
+	Open_id string
+	Nick_name string
+	Province string
+	Language string
+	Avatar_url string
+	Create_date string
+	Update_date string
+	Gender	int
+	Black_hole string
+	Phone	string
 }
 
 func (u *User) ReadDB() (err error) {

@@ -1,0 +1,94 @@
+2017/09/07 20:21:13 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/07 20:21:44 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|  18.078592ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/07 20:22:22 [D] [server.go:2619] |      127.0.0.1|[43m 404 [0m|   2.764051ms| nomatch|[44m GET     [0m /reallogin
+2017/09/07 21:41:15 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/07 21:41:54 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:13:47 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:13:54 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    7.08296ms|   match|[44m GET     [0m /login   r:/login
+2017/09/08 10:13:57 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    7.09399ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:15:19 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:15:26 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   3.370065ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:16:49 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    1.34777ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:17:04 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:17:04 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.034667ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:18:58 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:19:04 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   4.211787ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:19:14 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    629.753µs|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:19:14 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:19:31 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:19:33 [D] [server.go:2619] |      127.0.0.1|[42m 201 [0m|    968.432µs|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:20:20 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:20:21 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:20:23 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:20:40 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:20:49 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:20:57 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:21:00 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|     968.16µs|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:25:55 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:25:58 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.015531ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:26:16 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:26:57 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:26:58 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.792722ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:27:19 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    1.63476ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:27:19 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:27:23 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.256694ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:27:28 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:28:19 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:28:21 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|     983.52µs|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:28:49 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:28:49 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   2.284426ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:28:51 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    807.106µs|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:30:13 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:35:23 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:35:27 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    971.145µs|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 10:35:52 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 10:35:53 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.491869ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/08 12:05:28 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 12:05:32 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 12:07:35 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 12:08:47 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 12:13:05 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 12:13:22 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/08 12:13:59 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 19:28:16 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 19:29:54 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   6.129718ms|   match|[44m GET     [0m /     r:/
+2017/09/21 19:29:54 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.073266ms|   match|[44m GET     [0m /static/css/main.cacbacc7.css
+2017/09/21 19:29:54 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   4.580101ms|   match|[44m GET     [0m /static/js/main.9fdf0e48.js
+2017/09/21 19:29:54 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.531668ms|   match|[44m GET     [0m /static/media/logo.5d5d9eef.svg
+2017/09/21 19:29:55 [D] [server.go:2619] |      127.0.0.1|[43m 404 [0m|   2.537539ms| nomatch|[44m GET     [0m /service-worker.js
+2017/09/21 19:29:55 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    368.566µs|   match|[44m GET     [0m /favicon.ico
+2017/09/21 19:30:52 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    404.202µs|   match|[44m GET     [0m /     r:/
+2017/09/21 19:30:53 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|     62.399µs|   match|[44m GET     [0m /favicon.ico
+2017/09/21 19:31:01 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    384.028µs|   match|[44m GET     [0m /     r:/
+2017/09/21 19:31:01 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|     78.948µs|   match|[44m GET     [0m /favicon.ico
+2017/09/21 19:31:05 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    511.447µs|   match|[44m GET     [0m /     r:/
+2017/09/21 19:31:05 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|     98.013µs|   match|[44m GET     [0m /favicon.ico
+2017/09/21 19:34:07 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 19:34:40 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 19:34:41 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 19:35:04 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   2.065753ms|   match|[44m GET     [0m /     r:/
+2017/09/21 19:35:05 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.015111ms|   match|[44m GET     [0m /favicon.ico
+2017/09/21 19:35:41 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 19:37:49 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    469.213µs|   match|[44m GET     [0m /login   r:/login
+2017/09/21 19:37:54 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|  25.388208ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/21 19:39:08 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.043847ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/21 19:39:08 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   2.801885ms|   match|[44m GET     [0m /favicon.ico
+2017/09/21 20:15:47 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|  48.495092ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/21 20:15:47 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   3.255844ms|   match|[44m GET     [0m /favicon.ico
+2017/09/21 23:37:17 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:37:18 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:39:43 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   6.667426ms|   match|[44m GET     [0m /     r:/
+2017/09/21 23:39:54 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.205284ms|   match|[44m GET     [0m /login   r:/login
+2017/09/21 23:39:57 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|  20.861109ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/21 23:40:20 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:41:02 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:41:03 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   2.672101ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/21 23:41:04 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    493.907µs|   match|[44m GET     [0m /favicon.ico
+2017/09/21 23:42:47 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:42:49 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|    2.33558ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/21 23:42:50 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.602966ms|   match|[44m GET     [0m /favicon.ico
+2017/09/21 23:45:55 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:46:08 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:46:24 [I] [asm_amd64.s:2337] http server Running on http://:9000
+2017/09/21 23:46:35 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|  14.260657ms|   match|[46m POST    [0m /reallogin   r:/reallogin
+2017/09/21 23:46:36 [D] [server.go:2619] |      127.0.0.1|[42m 200 [0m|   1.254133ms|   match|[44m GET     [0m /favicon.ico
